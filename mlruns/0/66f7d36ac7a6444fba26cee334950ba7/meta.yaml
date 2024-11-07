@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/paul-hugo.donati/Desktop/ML%20-%20Rendu%20Final%20-%20Stan%20%26%20PH/mlruns/0/66f7d36ac7a6444fba26cee334950ba7/artifacts
+end_time: 1729609713969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66f7d36ac7a6444fba26cee334950ba7
+run_name: industrious-wolf-466
+run_uuid: 66f7d36ac7a6444fba26cee334950ba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729609713916
+status: 4
+tags: []
+user_id: paul-hugo.donati

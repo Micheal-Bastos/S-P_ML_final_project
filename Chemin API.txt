@@ -1,0 +1,3 @@
+cd 'C:\Users\paul-hugo.donati\Desktop\ML - Rendu Final - Stan & PH'									
+uvicorn main:app --reload									
+"Invoke-WebRequest -Uri ""http://127.0.0.1:8000/predict-from-data/"" -Method GET"									chemin à utiliser pour éxécuter l'API après avoir télécharger uvicorn
